@@ -8,7 +8,7 @@ The program has adopted by Geraci's dataset. By some little changes it can be us
 
 # Running method
 
-For this purpose it is only need to run FCMhap_v2.m file.
+For this purpose it is only need to run FCMhap_git.m file.
 
 The obtained results which includes the reconstruction rate and running time will be saved in some text files on the current path.
 
